@@ -10,3 +10,7 @@ lib64
 parts
 sdist
 var
+
+__pycache__
+.ipynb_checkpoints
+preprocess.p
