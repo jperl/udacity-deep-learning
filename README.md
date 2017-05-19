@@ -7,3 +7,5 @@
 [Project Three - TV Script Generation](https://github.com/jperl/udacity-deep-learning/blob/master/tv-script-generation/dlnd_tv_script_generation.ipynb)
 
 [Project Four - Language Translation](https://github.com/jperl/udacity-deep-learning/blob/master/language-translation/dlnd_language_translation.ipynb)
+
+[Project Five - Generate Faces](https://github.com/jperl/udacity-deep-learning/blob/master/face_generation/dlnd_face_generation.ipynb)
